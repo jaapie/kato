@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A new way of managing your $HOME",
   "main": "index.js",
+  "bin": {"kato": "index.js"},
+  "preferGlobal": "true",
+  "engines": {"node": "*"},
   "dependencies": {
     "optimist": "~0.4.0"
   },

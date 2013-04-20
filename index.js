@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Kato
 //
 // Written by Jacob Degeling
