@@ -1,0 +1,25 @@
+{
+  "name": "kato",
+  "version": "0.1.0",
+  "description": "A new way of managing your $HOME",
+  "main": "index.js",
+  "dependencies": {
+    "optimist": "~0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jaapie/kato.git"
+  },
+  "keywords": [
+    "kato",
+    "dotfiles",
+    "HOME",
+    "butler"
+  ],
+  "author": "Jacob Degeling",
+  "license": "MIT"
+}
